@@ -2,7 +2,7 @@
 
 * **Contributor:** Jai Pannu
 * **Organization:** The Palisadoes Foundation
-* **Project:** Talawa
+* **Project:** Talawa Plugins
 
 ---
 
