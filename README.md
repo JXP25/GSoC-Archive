@@ -64,6 +64,7 @@ All work is categorized by repository, with links to the merged Pull Requests.
 * <https://github.com/PalisadoesFoundation/talawa-plugin/pull/23>
 * <https://github.com/PalisadoesFoundation/talawa-plugin/pull/25>
 * <https://github.com/PalisadoesFoundation/talawa-plugin/pull/49>
+* <https://github.com/PalisadoesFoundation/talawa-plugin/pull/64>
 
 ## 4. Documentation
 
